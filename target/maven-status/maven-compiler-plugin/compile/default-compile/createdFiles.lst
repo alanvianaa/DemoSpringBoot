@@ -1,0 +1,8 @@
+com/alanviana/demo/repository/Convidados.class
+com/alanviana/demo/ServletInitializer.class
+com/alanviana/demo/controller/CadastroController.class
+com/alanviana/demo/repository/Cadastros.class
+com/alanviana/demo/model/Convidado.class
+com/alanviana/demo/DemoApplication.class
+com/alanviana/demo/model/Cadastro.class
+com/alanviana/demo/controller/ConvidadoController.class
