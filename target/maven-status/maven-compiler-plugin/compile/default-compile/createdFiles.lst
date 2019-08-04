@@ -1,3 +1,4 @@
+com/alanviana/demo/config/InMemorySecurityConfig.class
 com/alanviana/demo/repository/Convidados.class
 com/alanviana/demo/ServletInitializer.class
 com/alanviana/demo/controller/CadastroController.class
